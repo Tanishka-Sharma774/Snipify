@@ -1,14 +1,14 @@
-<b>Snipify - A Reels Upload & Showcase Platform<b>
+<b>Snipify - A Reels Upload & Showcase Platform</b> <br>
 A modern Next.js application for managing and selling video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities.
 <br>
-Features
-🔐 User Authentication (NextAuth.js)
-📹 Video Upload and Management (ImageKit)
-🎨 Modern UI with Tailwind CSS and DaisyUI
-📱 Fully Responsive Design
-🔒 Secure API Routes
-📧 Email Notifications (Nodemailer)
-🗄️ MongoDB Database Integration
+Features <br>
+🔐 User Authentication (NextAuth.js) <br>
+📹 Video Upload and Management (ImageKit) <br>
+🎨 Modern UI with Tailwind CSS and DaisyUI <br>
+📱 Fully Responsive Design <br>
+🔒 Secure API Routes <br>
+📧 Email Notifications (Nodemailer) <br> 
+🗄️ MongoDB Database Integration <br>
 <br>
 Tech Stack
 Frontend: Next.js 15, React 19, TypeScript <br>
